@@ -11,10 +11,7 @@ black
 isort
 pytest
 requests
-bs
 
 jupyterlab
 ipywidgets
 ipython
-
-#mlflow
