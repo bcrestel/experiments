@@ -1,10 +1,10 @@
 numpy
 scipy
 pandas>=1.0.0
-pandas_profiling
+#pandas_profiling
 
 matplotlib
-seaborn
+#seaborn
 plotly
 
 black
